@@ -2,7 +2,7 @@
 
 **Flicks** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -39,6 +39,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
+
+I got a blank white screen and a "Thread 1" error when I first launched the app. I fixed it by setting the module of my view controller as "Current - MovieViewer".
 
 ## License
 
